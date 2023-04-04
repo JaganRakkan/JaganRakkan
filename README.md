@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jagan
-- 👀 I’m interested in Data science and Meachine learning
-- 🌱 I’m currently learning Deep learning and NLP
-- 💞️ I’m looking to collaborate on any machine learning and deep learning algorithms
+- 👀 I’m a Data Analyst 
+- 🌱 I’m currently doing working and doing some projects for fun.
+- 💞️ This where I am put some of works and other stuffs
 - 📫 Reach me on emptymind228@gmail.com
 
 <!---
